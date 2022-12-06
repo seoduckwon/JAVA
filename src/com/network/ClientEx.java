@@ -15,6 +15,7 @@ public class ClientEx {
 	public static void main(String[] args) {
 		
 	
+		
 	Socket socket = null;
 	BufferedReader in = null;
 	BufferedWriter out = null;
